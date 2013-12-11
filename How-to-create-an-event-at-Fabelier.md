@@ -44,5 +44,6 @@ How to create an event in Fabelier
 
 *  To send a tweet login on the profile :  https://twitter.com/fabelier
 	* If you don't have the access ask to admin (-at-) fabelier.org
-* Then write a tweet such as " The 01/01/2013 @youspeaker will talk about XXXX http://www.fabelier.org/yourEventPage #topickeyword"
+* Then write a tweet such as 
+>>" The 01/01/2013 @youspeaker will talk about XXXX http://www.fabelier.org/yourEventPage #topickeyword"
 *  You could also send the mail to other friends/ groupes/ fablab / hackerspaces if you think it's relevant.
