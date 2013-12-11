@@ -4,9 +4,7 @@ How to create an event in Fabelier
 * Make a contact with us : 
 	* Send a mail to la mailing list
 	* /Or talk to a Fabelier Admin 
-
 * Then you need a date (when), a title, an abstract and a picture
-
 * Then  we organize an event in fabelier we generally : 
 	* Create a post on the website : http://fabelier.org/
 	* send a mail to the mailing list : https://groups.google.com/forum/#!forum/fabelier with the URL 
