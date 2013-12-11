@@ -1,4 +1,4 @@
-# 2013-12-10 HOW TO 3D PRINT @fabelier 
+HOW TO 3D PRINT @fabelier 
 ==========
 
 Software to model the piece
