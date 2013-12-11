@@ -18,28 +18,26 @@ Processus
 * Export your object into STL file
 
 * Open slicer 
-	##> home / bin/ slicer/bin / slic3r 
+	* home / bin/ slicer/bin / slic3r 
 
 * Drag and drop the STL object into slicer 
 
 * Don't touch the print print setting (normaly setup by @Alex + @kevin)
-	
-	0,0, proche de sios a gauche 
+	* 0,0, proche de sios a gauche 
 
 * Check the layer thinkness print 
-
-	> Print Setting/ infill / Fill Desnsity : 0.30 = 30%
-	> Print Setting/ layers > horizontal shell
+	* Print Setting/ infill / Fill Desnsity : 0.30 = 30%
+	* Print Setting/ layers > horizontal shell
 
 * Plater > export GCODE 
 
 * Open Pronterface : home/bin/printrun/pronterface.py (Lady gaga on youtube)
-	> click on "Run"
+	* click on "Run"
 
 * Click on connect 
 
 * Check the "home" of all axes X,Y,Z 
-	if you have a calibration problem chack with @kevin @Alex
+	* if you have a calibration problem chack with @kevin @Alex
 
 * Click on "monitor printer" 
 
