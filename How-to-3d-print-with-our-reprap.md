@@ -19,7 +19,6 @@ Processus
 	* home / bin/ slicer/bin / slic3r 
 * Drag and drop the STL object into slicer 
 * Don't touch the print print setting (normaly setup by @Alex + @kevin)
-	* 0,0, proche de sios a gauche 
 * Check the layer thinkness print 
 	* Print Setting/ infill / Fill Desnsity : 0.30 = 30%
 	* Print Setting/ layers > horizontal shell
