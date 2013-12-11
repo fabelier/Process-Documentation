@@ -29,18 +29,18 @@ How to create an event in Fabelier
 # How to spread the news : 
 ========
 *  Write a mail to fabelier (-at-) googlegroups.com with the following template : 
-	"'Hello, 
-
-	We organize -title of your event- @fabelier :
-
-	What : -description + http://www.fabelier.org/yourEventPage-
-
-	When : -date-
-
-	Where : http://fabelier.org/where/
-
-	Have fun !
-	-you name- ''"
+>>	"'Hello, 
+>>
+>>	We organize -title of your event- @fabelier :
+>>
+>>	What : -description + http://www.fabelier.org/yourEventPage-
+>>
+>>	When : -date-
+>>
+>>	Where : http://fabelier.org/where/
+>>
+>>	Have fun !
+>>	-you name- ''"
 
 *  To send a tweet login on the profile :  https://twitter.com/fabelier
 	* If you don't have the access ask to admin (-at-) fabelier.org
