@@ -44,10 +44,9 @@ HOW TO 3D PRINT @fabelier
 ------------
 
 
-Others notes
-==========
+###Others notes
 >> Attention : epaisseur 
 >> Slicer : convertie le stl en language machine (g code)
->>> transforme objet 
+>> transforme objet 
 >> export STL 
 
