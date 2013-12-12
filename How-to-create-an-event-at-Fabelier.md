@@ -13,7 +13,7 @@ How to create an event in Fabelier
 	* one day before the event we usually re send a mail an re tweet to recall
 
 
-# How to create a post on the website : 
+## How to create a post on the website : 
 ========
 * login with your password on www.fabelier.org/wp-admin
 	* if you don't have a password ask to admin (-at-) fabelier.org
@@ -26,7 +26,7 @@ How to create an event in Fabelier
 	* choose or upload a image for the visibility of your post on the home page picture are 210px of width.
 
 
-# How to spread the news : 
+## How to spread the news : 
 ========
 *  Write a mail to fabelier (-at-) googlegroups.com with the following template : 
 >>	"'Hello, 
