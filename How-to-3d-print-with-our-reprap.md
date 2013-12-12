@@ -1,17 +1,16 @@
 HOW TO 3D PRINT @fabelier 
 ==========
 
-Software to model the piece
-==========
+### Software to model the piece
 
 * Solid works : pro 
-* sketch up : ??
+* sketch up + stl plug in : intermediate
 * 123d (autocad) : newbies
-* Openscad : geeky
+* Openscad : geeky (you can script !!! super cool )
 
 
-Processus
-==========
+
+### Processus
 
 * Check that the power supply is ON
 * Export your object into STL file
