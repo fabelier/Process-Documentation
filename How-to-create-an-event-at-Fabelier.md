@@ -14,7 +14,6 @@ How to create an event in Fabelier
 
 
 ## How to create a post on the website : 
-========
 
 * login with your password on www.fabelier.org/wp-admin
 	* if you don't have a password ask to admin (-at-) fabelier.org
@@ -28,7 +27,6 @@ How to create an event in Fabelier
 
 
 ## How to spread the news : 
-========
 
 *  Write a mail to fabelier (-at-) googlegroups.com with the following template : 
 >>	"'Hello, 
