@@ -3,10 +3,10 @@ HOW TO 3D PRINT @fabelier
 
 ### Software to model the piece
 
-* Solid works : pro 
-* sketch up + stl plug in : intermediate
-* 123d (autocad) : newbies
-* Openscad : geeky (you can script !!! super cool )
+* [Solid works](http://www.solidworks.fr/) : pro 
+* [sketch up](http://www.sketchup.com/) + stl plug in : intermediate
+* [123d](http://www.123dapp.com/) (autodesk) : newbies
+* [Openscad](http://www.openscad.org/) : geeky (you can script !!! super cool )
 
 
 
